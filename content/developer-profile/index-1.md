@@ -1,17 +1,17 @@
 ---
-firstName: Jonathan
-lastName: Harwood
+firstName: Kacper
+lastName: Janusz
 avatar: profile.jpg
-position: Fullstack developer
-phone: "123123123"
-email: jonathan.harwood@gmail.com
+position: Frontend developer
+phone: +48 535 526 475
+email: kaacper.janusz@gmail.com
 city: Wroclaw
-country: Poland
+country: Polska
 isFreelancer: true
 cv: https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf
 socialMedia:
-  twitter: https://twitter.com/
-  github: https://github.com/
-  instagram: https://www.instagram.com/
-  facebook: https://www.facebook.com/
+  twitter: ""
+  github: https://github.com/kacperjanusz
+  instagram: ""
+  facebook: ""
 ---
