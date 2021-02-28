@@ -16,9 +16,9 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
   aliquam.
 socialMedia:
   technologies:
-    - technologyName: HTML
+    - technologyName: HTML5
       technologyValue: 3
-    - technologyName: CSS
+    - technologyName: CSS3
       technologyValue: 2
     - technologyName: JavaScript (ES9)
       technologyValue: 2
@@ -30,6 +30,8 @@ socialMedia:
       technologyValue: 1
     - technologyName: Gatsby
       technologyValue: 1
+    - technologyName: Node.js
+      technologyValue: 3
   tools:
     - toolName: Git
       toolValue: 2
