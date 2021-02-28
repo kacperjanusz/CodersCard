@@ -42,9 +42,11 @@ socialMedia:
     - toolName: Zeplin
       toolValue: 2
   otherSkills:
-    - otherSkillName: Czytanie
-      otherSkillValue: 2
-    - otherSkillName: Pisanie
+    - otherSkillName: English
+      otherSkillValue: 5
+    - otherSkillName: German
+      otherSkillValue: 1
+    - otherSkillName: Spanish
       otherSkillValue: 1
 testimonials: []
 ---
