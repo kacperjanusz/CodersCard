@@ -1,7 +1,7 @@
 ---
-aboutPageTitle:
-aboutPageDescription:
-aboutPageImage:
+aboutPageTitle: null
+aboutPageDescription: null
+aboutPageImage: null
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
   iaculis ultricies eros, ac iaculis eros maximus nec. Phasellus vitae mi felis.
   Curabitur iaculis nunc laoreet eleifend tincidunt. Aliquam nec lectus varius,
@@ -17,55 +17,34 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
 socialMedia:
   technologies:
     - technologyName: HTML
-      technologyValue: 5
+      technologyValue: 3
     - technologyName: CSS
-      technologyValue: 5
+      technologyValue: 2
     - technologyName: JavaScript (ES9)
-      technologyValue: 4
+      technologyValue: 2
     - technologyName: SASS
       technologyValue: 3
     - technologyName: React.js
-      technologyValue: 5
-    - technologyName: Redux
-      technologyValue: 3
+      technologyValue: 2
     - technologyName: Storybook
-      technologyValue: 2
-    - technologyName: React Testing Library
-      technologyValue: 2
-    - technologyName: Gatsby
-      technologyValue: 2
-    - technologyName: Apollo Client
-      technologyValue: 3
-    - technologyName: Redux Saga
       technologyValue: 1
-    - technologyName: Next.js
-      technologyValue: 2
+    - technologyName: Gatsby
+      technologyValue: 1
   tools:
     - toolName: Git
       toolValue: 2
     - toolName: GitHub
       toolValue: 3
     - toolName: JIRA
-      toolValue: 1
-    - toolName: Trello
-      toolValue: 2
+      toolValue: 3
     - toolName: Figma
-      toolValue: 5
+      toolValue: 2
     - toolName: Zeplin
-      toolValue: 4
+      toolValue: 2
   otherSkills:
     - otherSkillName: Czytanie
       otherSkillValue: 2
     - otherSkillName: Pisanie
       otherSkillValue: 1
-testimonials: 
-  - testimonialText: testimonialText
-    testimonialName: testimonialName
-    testimonialJob: testimonialJob
-    testimonialImage: GabeMcdonalid.png
-
-  - testimonialText: testimonialText
-    testimonialName: testimonialName
-    testimonialJob: testimonialJob
-    testimonialImage: GabeMcdonalid.png
+testimonials: []
 ---
