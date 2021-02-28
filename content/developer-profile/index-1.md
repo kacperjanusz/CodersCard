@@ -1,7 +1,7 @@
 ---
 firstName: Kacper
 lastName: Janusz
-avatar: profile.jpg
+avatar: 35224854_1903417196356746_3057008758942072832_n.jpg
 position: Frontend developer
 phone: +48 535 526 475
 email: kaacper.janusz@gmail.com
