@@ -27,6 +27,12 @@ workExperience:
     companyName: McKinsey & Company
     jobDescription: Carry out Design to Value analysis, 3D modelling, 3D printing,
       3D scanning, Creating prototypes, Material Analysis
+  - startJobDate: 2021-02-28T19:15:15.251Z
+    finishJobDate: 2021-02-28T19:15:15.284Z
+    jobTitle: Powertrain Team Leader, Intake System Engineer
+    companyName: PWR Racing Team
+    jobDescription: Leading a nine-member team, designing and manufacturing of
+      intake manifold, powertrain engineer, purchasing
 education:
   - startSchoolDate: 2020-10-02T20:11:46.025Z
     finishSchoolDate: 2020-11-02T20:12:59.850Z
