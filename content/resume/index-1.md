@@ -45,7 +45,11 @@ education:
     finishSchoolDate: 2020-11-02T20:12:59.850Z
     schoolName: Master Degree, University of Technology Wroclaw
     course: Automotive Engineering
-    educationDescription: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    educationDescription: "During my master studies I started to learn programming.
+      For my master thesis I made project of electric car control system. System
+      was managing car electric motor, collecting data from sensor and
+      displaying it on simple user interface. Written using Node.js, Express.js,
+      Socket.io, HTML and CSS "
   - startSchoolDate: 2017-10-01T19:05:57.745Z
     finishSchoolDate: 2020-06-14T22:00:00.000Z
     schoolName: Engineering Degree, University of Technology Wroclaw
