@@ -88,7 +88,27 @@ projects:
     projectPreviewImage: obraz_2021-02-21_105536.png
     projectRole: I was responsible for frontend part of application, creation of
       service which handles API responses, login forms and validation.
-    projectStartDate: 2021-03-01T19:03:30.981Z
-    projectFinishDate: 2021-03-01T19:03:31.007Z
+    projectStartDate: 2020-04-15T19:03:30.981Z
+    projectFinishDate: 2020-06-16T19:03:31.007Z
+    projectLabel: Web App
+  - projectPreviewNote: "  Online chess game written using JavaScript, HTML and CSS.
+      All chess rules are implemented, including en passant, pawn promotion,
+      king castling. User's possible moves are highlighted on board. Game
+      provides chess timer and table with chess notation."
+    projectTechnologies:
+      - technologyName: JavaScript
+      - technologyName: HTML
+      - technologyName: CSS
+    projectDescription: >-
+      
+
+      Online chess game written using JavaScript, HTML and CSS. All chess rules are implemented, including en passant, pawn promotion, king castling. User's possible moves are highlighted on board. Game provides chess timer and table with chess notation.
+    projectName: Chess Game
+    projectCode: https://github.com/KlaraGajaszek/chessGame
+    projectApp: https://captainobjective.github.io/chessGame/
+    projectPreviewImage: cheese.png
+    projectRole: I implemented chess logic using JavaScript, HTML and CSS
+    projectStartDate: 2020-02-03T19:39:34.926Z
+    projectFinishDate: 2020-04-08T19:39:34.962Z
     projectLabel: Web App
 ---
