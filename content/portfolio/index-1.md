@@ -45,4 +45,27 @@ projects:
     projectStartDate: 2020-08-23T10:45:41.756Z
     projectFinishDate: 2020-11-23T10:45:41.772Z
     projectLabel: Web App
+  - projectPreviewNote: Image search application which use 3 API, written with
+      Javascript, NodeJs, Express.js, RxJs technologies. User has possibility to
+      choose search api, add and remove picture from favourites, filter results,
+      register, login and set own avatar.
+    projectTechnologies:
+      - technologyName: Javascript
+      - technologyName: Node.js
+      - technologyName: HTML
+      - technologyName: CSS
+      - technologyName: Web Components
+    projectDescription: Image search application which use 3 API, written with
+      Javascript, NodeJs, Express.js, RxJs technologies. User has possibility to
+      choose search api, add and remove picture from favourites, filter results,
+      register, login and set own avatar.
+    projectName: Imagify
+    projectCode: https://github.com/KlaraGajaszek/Imagify
+    projectApp: https://cc-imagify.herokuapp.com/
+    projectPreviewImage: obraz_2021-02-21_105536.png
+    projectRole: I was responsible for frontend part of application, creation of
+      service which handles API responses, login forms and validation.
+    projectStartDate: 2021-03-01T19:03:30.981Z
+    projectFinishDate: 2021-03-01T19:03:31.007Z
+    projectLabel: Web App
 ---
