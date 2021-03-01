@@ -28,20 +28,21 @@ projects:
       congue enim a dui efficitur, a pellentesque.
     projectTechnologies:
       - technologyName: React
-      - technologyName: Redux
       - technologyName: TypeScript
-    projectDescription: Description. In vel tellus ac quam elementum vulputate.
-      Proin quis eros in elit luctus tempor. Aenean in hendrerit metus. Donec
-      congue enim a dui efficitur, a pellentesque.
-    projectName: My Awesome Project 2
+      - technologyName: Gatsby
+      - technologyName: Material UI
+    projectDescription: Tool for developers which allow to create portfolio in few
+      minutes. Based on Netlify CMS, so you just need to fill necessery
+      informations about yourself and it's done:)
+    projectName: CodersCard
     projectCode: https://github.com/CodersCrew/CodersCard
-    projectApp: https://github.com/CodersCrew/CodersCard
-    projectPreviewImage: background.jpg
-    projectRole: Role. In vel tellus ac quam elementum vulputate. Proin quis eros in
-      elit luctus tempor. Aenean in hendrerit metus. Donec congue enim a dui
-      efficitur, a pellentesque.
-    projectMockups: https://github.com/CodersCrew/CodersCard
+    projectApp: https://kacper-janusz-coderscard.netlify.app/
+    projectPreviewImage: 5af4b280-f5f5-11ea-86b5-5cd6206e0337.png
+    projectRole: I was responsible for developing new components based on mockups
+      created in Figma and Zeplin. What's more I worked with other team members
+      and carried out code review.
+    projectMockups: https://www.figma.com/file/bM9b4fMCze8dgwzRzvMaNp/CodersCard-Mockups
     projectStartDate: 2020-08-23T10:45:41.756Z
     projectFinishDate: 2020-11-23T10:45:41.772Z
-    projectLabel: Desktop app
+    projectLabel: Web App
 ---
