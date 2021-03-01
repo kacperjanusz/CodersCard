@@ -2,7 +2,11 @@
 aboutPageTitle: null
 aboutPageDescription: null
 aboutPageImage: null
-description: sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+description: "#
+  sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss\
+  sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss\
+  sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss\
+  ssssssssssssssssssssssssssssssssssssssssssss"
 socialMedia:
   technologies:
     - technologyName: HTML5
@@ -24,7 +28,7 @@ socialMedia:
     - technologyName: Vue.js
       technologyValue: 2
   tools:
-    - toolName: Git, Github, Bitbucket
+    - toolName: Git, Github, Bitb
       toolValue: 2
     - toolName: JIRA
       toolValue: 3
