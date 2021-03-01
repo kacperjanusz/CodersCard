@@ -46,8 +46,8 @@ education:
     schoolName: Master Degree, University of Technology Wroclaw
     course: Automotive Engineering
     educationDescription: "During my master studies I started to learn programming.
-      For my master thesis I made project of electric car control system. System
-      was managing car electric motor, collecting data from sensor and
+      For my master thesis I made project of simple electric car control system.
+      System was managing car electric motor, collecting data from sensor and
       displaying it on simple user interface. Written using Node.js, Express.js,
       Socket.io, HTML and CSS "
   - startSchoolDate: 2015-10-01T19:05:57.745Z
