@@ -14,10 +14,8 @@ projects:
       - technologyName: Mongo
     projectDescription: Commercial project of CodersCrew organisation which is being
       developed for Mali Wspaniali foundation. Application which will help
-      parents to keep an eye on proper physical development of their child. Mali
-      Wspaniali foundation is located in Wrocław, foundation is focused on
-      fighting with obesity in preschoolers and sport propagation. Project is
-      not finished yet and I am not allowed to share and URl
+      parents to keep an eye on proper physical development of their child.
+      Project is not finished yet and I am not allowed to share and URl
     projectName: Mali Wspaniali
     projectPreviewImage: mali1.jpg
     projectRole: I am React developer. I implement components and pages created by
