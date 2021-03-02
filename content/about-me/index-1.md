@@ -3,7 +3,7 @@ aboutPageTitle: null
 aboutPageDescription: null
 aboutPageImage: null
 description: >-
-  ## Hi , I'm Kacper
+  ## Hi, I'm Kacper
 
 
   ### A self-taught remote React & Vue developer based in Wrocław, Poland.
@@ -22,6 +22,18 @@ description: >-
   * #### 🥅 2021 Goals: Advance from a Junior to a Regular developer position. 📈 
 
   * #### ⚡ I love video games, board games and sports, mostly calisthenics 🧘, powerlifting 🏋️, and climbing 🧗.
+
+
+
+    Passionate JS developer, based in Wrocław, Poland.
+
+    Below you can find some interesting facts about me:
+
+    * 💻 I am currently working as Junior Frontend Developer at [2MD](https://2md.pl/)
+    * ⚡ Big fun of new technologies which can be applied in real life
+    * 🔧 I spent most of my free time at coding open source apps and fixing machines at my workshop
+    * 🏄 I love watersports and dirt bikes
+    * 🔗 Trying to connect mechanical knowledge with passion to programming
 socialMedia:
   technologies:
     - technologyName: HTML5
