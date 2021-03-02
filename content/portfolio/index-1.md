@@ -21,7 +21,7 @@ projects:
     projectRole: I am React developer. I implement components and pages created by
       UI/UX team in Figma. We have only one month to finish this project so I
       spent most of my free time to do it.
-    projectStartDate: 2021-01-06T19:13:29.307Z
+    projectStartDate: 2020-12-04T19:13:29.307Z
     projectFinishDate: 2021-03-01T19:38:10.015Z
     projectLabel: Web App
   - projectPreviewNote: Webb app which help teams to carry out sprint planning and
