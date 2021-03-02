@@ -3,7 +3,7 @@ aboutPageTitle: null
 aboutPageDescription: null
 aboutPageImage: null
 description: >-
-  ## Hi there, I'm Maciej
+  ## Hi , I'm Kacper
 
 
   ### A self-taught remote React & Vue developer based in Wrocław, Poland.
