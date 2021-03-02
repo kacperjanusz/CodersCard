@@ -20,7 +20,7 @@ description: >-
 
   * 🏄 I love watersports, dirt bikes and hitchhiking
 
-  * 🔗 Trying to connect mechanical knowledge with passion to programming🔗 Trying to connect mechanical knowledge with passion to programming🔗 Trying to connect mechanical knowledge with passion to programming🔗 Trying to connect mechanical knowledge with passion to programming
+  * 🔗 Trying to connect mechanical knowledge with passion to programming🔗 Trying to connect mechanical knowledge with passion to programming🔗 Trying to connect mechanical knowledge with passion to programming
 socialMedia:
   technologies:
     - technologyName: HTML5
