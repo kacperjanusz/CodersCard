@@ -41,8 +41,8 @@ projects:
     projectRole: I was responsible for building backend part with TypeScript and
       websockets. When backend was done I helped to finish frontend.
     projectMockups: ""
-    projectStartDate: 2020-07-23T10:45:41.756Z
-    projectFinishDate: 2020-08-23T10:45:41.772Z
+    projectStartDate: 2020-07-01T10:45:41.756Z
+    projectFinishDate: 2020-08-31T10:45:41.772Z
     projectLabel: Web App
   - projectPreviewNote: Preview note. In vel tellus ac quam elementum vulputate.
       Proin quis eros in elit luctus tempor. Aenean in hendrerit metus. Donec
@@ -64,7 +64,7 @@ projects:
       and carried out code review.
     projectMockups: https://www.figma.com/file/bM9b4fMCze8dgwzRzvMaNp/CodersCard-Mockups
     projectStartDate: 2020-08-23T10:45:41.756Z
-    projectFinishDate: 2020-11-23T10:45:41.772Z
+    projectFinishDate: 2020-12-22T10:45:41.772Z
     projectLabel: Web App
   - projectPreviewNote: Image search application which use 3 API, written with
       Javascript, NodeJs, Express.js, RxJs technologies. User has possibility to
