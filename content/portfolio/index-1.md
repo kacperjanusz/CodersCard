@@ -24,7 +24,7 @@ projects:
     projectStartDate: 2020-12-04T19:13:29.307Z
     projectFinishDate: 2021-03-01T19:38:10.015Z
     projectLabel: Web App
-  - projectPreviewNote: Webb app which help teams to carry out sprint planning and
+  - projectPreviewNote: Webb app which helps teams to carry out sprint planning and
       task estimation. Coded using React & TypeScript technologies.
     projectTechnologies:
       - technologyName: React
@@ -32,8 +32,8 @@ projects:
       - technologyName: Socket.io
       - technologyName: React-router
       - technologyName: Material UI
-    projectDescription: Webb app which help small teams to carry out sprint planning
-      and task estimation. Coded using React & TypeScript technologies.
+    projectDescription: Webb app which helps small teams to carry out sprint
+      planning and task estimation. Coded using React & TypeScript technologies.
     projectName: Meme Poker
     projectCode: https://github.com/CaptainObjective/Meme-Poker
     projectApp: https://meme-poker-dev.herokuapp.com/
