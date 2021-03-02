@@ -8,7 +8,7 @@ email: kaacper.janusz@gmail.com
 city: Wroclaw
 country: Polska
 isFreelancer: true
-cv: https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf
+cv: https://drive.google.com/file/d/1a2G9bm9SWCutKansO3csMq6G-3pwtVBz/view?usp=sharing
 socialMedia:
   twitter: ""
   github: https://github.com/kacperjanusz
