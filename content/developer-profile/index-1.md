@@ -13,5 +13,5 @@ socialMedia:
   twitter: ""
   github: https://github.com/kacperjanusz
   instagram: ""
-  facebook: ""
+  facebook: https://www.facebook.com/kacper.janusz
 ---
