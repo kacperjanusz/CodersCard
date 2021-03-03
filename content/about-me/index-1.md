@@ -15,9 +15,7 @@ description: >-
 
   * #### 🌱 I’m currently learning everything and every day. 🤪
 
-  * #### 🥅 2021 Goals: Advance from a Junior to a Regular developer position. 📈 
-
-  * #### ⚡ I love video games, board games and sports, mostly calisthenics 🧘, powerlifting 🏋️, and climbing 🧗.
+  *
 socialMedia:
   technologies:
     - technologyName: HTML5
