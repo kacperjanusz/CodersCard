@@ -2,16 +2,14 @@
 aboutPageTitle: null
 aboutPageDescription: null
 aboutPageImage: null
-description: >
-  
-
+description: >-
   ## Hi there, I'm Kacper
 
 
   #### Passionate JS developer based in Wrocław, Poland.
 
 
-  #### I am positive, communicative person with strong analytical skills. 
+  #### I am positive, communicative person with strong analytical skills.
 
 
   #### below you can find some information about me:
@@ -19,8 +17,13 @@ description: >
 
   * ##### 💻 I’m currently working as Junior Front-end Developer at [](https://infermedica.com/)[2MD](https://2md.pl/)
 
+  * ##### ⚡ Big fan of new technologies especially when can be applied in real life
 
-  * ##### 🌱 Big fan of new technologies especially when can be applied in real life
+  * ##### ⚡ Big fan of new technologies especially when can be applied in real life
+
+  * **🔧 I spent most of my free time at coding open source apps and fixing machines at my workshop**
+
+  * ##### ⚡ Big fan of new technologies especially when can be applied in real life
 socialMedia:
   technologies:
     - technologyName: HTML5
