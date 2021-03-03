@@ -11,6 +11,12 @@ description: >-
   ### Passionate JS developer based in Wrocław, Poland.
 
 
+  ### I am positive, communicative person with strong analytical skills. 
+
+
+  ### below you can find some information about me:
+
+
   * #### 🔭 I’m currently working at [@Infermedica](https://infermedica.com/), guiding patients to the right care! 💊
 
   * #### 🌱 I’m currently learning everything and every day. 🤪
