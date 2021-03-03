@@ -3,24 +3,34 @@ aboutPageTitle: null
 aboutPageDescription: null
 aboutPageImage: null
 description: >-
-  ## Hi, I'm Kacper
+  <!--StartFragment-->
 
 
-  Passionate JS developer, based in Wrocław, Poland.
+  ## Hi there, I'm Maciej
 
 
-  **Below you can find some interesting facts about me:**
+  ### A self-taught remote React & Vue developer based in Wrocław, Poland.
 
 
-  * 💻 I am currently working as Junior Frontend Developer at [2MD](https://2md.pl/)
+  ### I'm a visual person passionate about Frontend Development! 🎨
 
-  * ⚡ Big fun of new technologies which can be applied in real life
 
-  * 🔧 I spent most of my free time at coding open source apps and fixing machines at my workshop
+  ### Below find some interesting facts about me:
 
-  * 🏄 I love watersports, dirt bikes and hitchhiking
 
-  * 🔗 Trying to connect mechanical knowledge with passion to programming🔗 Trying to connect mechanical knowledge with passion to programming
+  * #### 🔭 I’m currently working at [@Infermedica](https://infermedica.com/), guiding patients to the right care! 💊
+
+  * #### 🌱 I’m currently learning everything and every day. 🤪
+
+  * #### 🥅 2021 Goals: Advance from a Junior to a Regular developer position. 📈 
+
+  * #### ⚡ I love video games, board games and sports, mostly calisthenics 🧘, powerlifting 🏋️, and climbing 🧗.
+
+
+  My skills
+
+
+  <!--EndFragment-->
 socialMedia:
   technologies:
     - technologyName: HTML5
