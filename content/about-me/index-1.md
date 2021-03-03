@@ -23,7 +23,7 @@ description: >-
 
   * **🔧 I spent most of my free time at coding open source apps and fixing machines at my workshop**
 
-  * ##### ⚡ Big fan of new technologies especially when can be applied in real life
+  * **🦾 My goal for 2021: find a job as Junior React Developer**
 socialMedia:
   technologies:
     - technologyName: HTML5
