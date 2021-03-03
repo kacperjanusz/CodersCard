@@ -17,13 +17,13 @@ description: >-
 
   * ##### 💻 I’m currently working as Junior Front-end Developer at [](https://infermedica.com/)[2MD](https://2md.pl/)
 
-  * **🏄 I love watersports, dirt bikes and hitchhiking**
+  * ##### **🏄 I love watersports, dirt bikes and hitchhiking**
 
   * ##### ⚡ Big fan of new technologies especially when can be applied in real life
 
-  * **🔧 I spent most of my free time at coding open source apps and fixing machines at my workshop**
+  * ##### **🔧 I spent most of my free time at coding open source apps and fixing machines at my workshop**
 
-  * **🦾 My goal for 2021: find a job as Junior React Developer**
+  * ##### **🦾 My goal for 2021: find a job as Junior React Developer**
 socialMedia:
   technologies:
     - technologyName: HTML5
