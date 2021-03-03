@@ -17,7 +17,7 @@ description: >-
 
   * ##### 💻 I’m currently working as Junior Front-end Developer at [](https://infermedica.com/)[2MD](https://2md.pl/)
 
-  * ##### ⚡ Big fan of new technologies especially when can be applied in real life
+  * **🏄 I love watersports, dirt bikes and hitchhiking**
 
   * ##### ⚡ Big fan of new technologies especially when can be applied in real life
 
