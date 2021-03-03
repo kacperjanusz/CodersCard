@@ -2,7 +2,7 @@
 aboutPageTitle: null
 aboutPageDescription: null
 aboutPageImage: null
-description: >-
+description: >
   
 
   ## Hi there, I'm Kacper
@@ -19,8 +19,8 @@ description: >-
 
   * ##### 💻 I’m currently working as Junior Front-end Developer at [](https://infermedica.com/)[2MD](https://2md.pl/)
 
-    ##### 🌱 I’m currently learning everything and every day. 🤪
-  *
+
+  * ##### 🌱 Big fan of new technologies especially when can be applied in real life
 socialMedia:
   technologies:
     - technologyName: HTML5
