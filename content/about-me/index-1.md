@@ -5,10 +5,10 @@ aboutPageImage: null
 description: >-
   
 
-  ## Hi there, I'm Maciej
+  ## Hi there, I'm Kacper
 
 
-  ### A self-taught remote React & Vue developer based in Wrocław, Poland.
+  ### Passionate JS developer based in Wrocław, Poland.
 
 
   * #### 🔭 I’m currently working at [@Infermedica](https://infermedica.com/), guiding patients to the right care! 💊
