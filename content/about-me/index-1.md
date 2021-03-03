@@ -57,9 +57,13 @@ socialMedia:
       toolValue: 3
     - toolName: Quasar
       toolValue: 2
+    - toolName: REST
+      toolValue: 4
+    - toolName: GraphQL
+      toolValue: 1
   otherSkills:
     - otherSkillName: English
-      otherSkillValue: 5
+      otherSkillValue: 4
     - otherSkillName: German
       otherSkillValue: 1
     - otherSkillName: Spanish
