@@ -3,8 +3,7 @@ aboutPageTitle: null
 aboutPageDescription: null
 aboutPageImage: null
 description: >-
-  <!--StartFragment-->
-
+  
 
   ## Hi there, I'm Maciej
 
@@ -19,12 +18,6 @@ description: >-
   * #### 🥅 2021 Goals: Advance from a Junior to a Regular developer position. 📈 
 
   * #### ⚡ I love video games, board games and sports, mostly calisthenics 🧘, powerlifting 🏋️, and climbing 🧗.
-
-
-  My skills
-
-
-  <!--EndFragment-->
 socialMedia:
   technologies:
     - technologyName: HTML5
