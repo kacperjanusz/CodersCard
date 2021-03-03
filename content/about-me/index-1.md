@@ -12,12 +12,6 @@ description: >-
   ### A self-taught remote React & Vue developer based in Wrocław, Poland.
 
 
-  ### I'm a visual person passionate about Frontend Development! 🎨
-
-
-  ### Below find some interesting facts about me:
-
-
   * #### 🔭 I’m currently working at [@Infermedica](https://infermedica.com/), guiding patients to the right care! 💊
 
   * #### 🌱 I’m currently learning everything and every day. 🤪
