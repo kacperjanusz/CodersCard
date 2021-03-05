@@ -44,6 +44,10 @@ socialMedia:
       technologyValue: 3
     - technologyName: Vue.js
       technologyValue: 2
+    - technologyName: React Testing Library
+      technologyValue: 1
+    - technologyName: Jest
+      technologyValue: 1
   tools:
     - toolName: Git, Github, Bitb
       toolValue: 2
