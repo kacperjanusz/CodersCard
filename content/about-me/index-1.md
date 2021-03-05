@@ -67,6 +67,8 @@ socialMedia:
       toolValue: 1
     - toolName: Docker
       toolValue: 1
+    - toolName: Trello
+      toolValue: 4
   otherSkills:
     - otherSkillName: English
       otherSkillValue: 4
