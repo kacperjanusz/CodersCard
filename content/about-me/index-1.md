@@ -61,6 +61,8 @@ socialMedia:
       toolValue: 4
     - toolName: GraphQL
       toolValue: 1
+    - toolName: Docker
+      toolValue: 1
   otherSkills:
     - otherSkillName: English
       otherSkillValue: 4
