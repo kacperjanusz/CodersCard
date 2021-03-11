@@ -48,6 +48,8 @@ socialMedia:
       technologyValue: 1
     - technologyName: Jest
       technologyValue: 1
+    - technologyName: RxJS
+      technologyValue: 2
   tools:
     - toolName: Git, Github, Bitb
       toolValue: 2
