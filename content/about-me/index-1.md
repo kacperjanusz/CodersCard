@@ -71,6 +71,8 @@ socialMedia:
       toolValue: 1
     - toolName: Trello
       toolValue: 4
+    - toolName: Webpack
+      toolValue: 3
   otherSkills:
     - otherSkillName: English
       otherSkillValue: 4
